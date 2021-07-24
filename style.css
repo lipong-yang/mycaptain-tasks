@@ -1,0 +1,59 @@
+ul{
+	list-style: none;
+	background-color: #facf41;
+	padding: 20px;
+}
+li{
+	display: inline;
+	margin: 100px;
+}
+li a{
+	text-decoration: none;
+
+	color: white;
+}
+li a:hover {
+	color: red;
+}
+h1{
+	text-align: center;
+	background-color: #facf41;
+	color: white;
+	font-family: all;
+	padding: 30px;
+}
+p{
+	font-family: all;
+	margin: 100px;
+	margin-top: 30px;
+	font-size: 24px;
+}
+hr{
+	border:2px solid black;
+	width: 50%;
+}
+img {
+  max-width: 50%;
+  height: auto;
+  margin-left: 100px;
+  margin-top: 30px;
+}
+footer{
+	text-align: center;
+	background-color: #facf41;
+	padding: 30px;
+	margin-top: 50px;
+}
+.Mark{
+	color: green;
+}
+#special{
+	color: red;
+	font-size: 26px;
+}
+.image_contianer{
+	text-align: center;
+}
+.website{
+	text-align: center;
+}
